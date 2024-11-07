@@ -1,0 +1,20 @@
+/* *{
+    background: rgb(97,179,223);
+    background: radial-gradient(circle, rgba(97,179,223,1) 37%, rgba(49,44,115,1) 93%);
+} */
+
+.conteinerLogin{
+    border: solid 4px black;
+    padding: 10px;
+    background-color: white;
+}   
+
+.iconoLogin{
+    height: 15px;
+    color: green;
+}
+
+.buttonLogin{
+    border: solid 1px black;
+    background-color: rgb(0, 217, 255);
+}
