@@ -4,12 +4,12 @@ const Cards = () => {
     return(
         <>
           <div className="conteinerCards">
-              <image></image>
+              <image/>
               <div className="contenido">
-                <h3></h3>
-                <p></p>
+                <h3>Titulo</h3>
+                <p>Descripcion</p>
               </div>
-              <button className="btnCards"></button>
+              <button className="btnCards">Ingresar</button>
           </div>
         </>
     )

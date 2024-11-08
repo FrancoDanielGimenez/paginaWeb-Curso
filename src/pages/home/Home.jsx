@@ -5,6 +5,7 @@ const Home = () =>{
         <>
             <div>pagina home</div>
             <Cards></Cards>
+            <Cards></Cards>
         </>
     )
 }
